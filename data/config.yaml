@@ -1,0 +1,7 @@
+train: app/data/yolo_dataset/train
+val: app/data/yolo_dataset/valid
+names:
+  0: motor
+  1: car
+  2: bus
+  3: container

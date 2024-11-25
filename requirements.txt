@@ -1,0 +1,4 @@
+ultralytics
+wandb
+ensemble-boxes
+tqdm
